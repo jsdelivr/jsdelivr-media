@@ -1,6 +1,6 @@
 # jsdelivr-media
 
-<img src="logo-horizontal.svg" width="100%">
+<img src="jsdelivr-logo-horizontal.svg" width="100%">
 
 * DO use our logo to link to PerfOps®
 * DO use our logo in a blog post or news article about PerfOps®
